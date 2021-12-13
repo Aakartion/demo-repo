@@ -4,4 +4,9 @@
 Change from slow worker
 =======
 This is done by fast worker.
+<<<<<<< HEAD
 fast and furious
+=======
+Chnage from fast worker.
+something is changed.
+>>>>>>> fastWorker
